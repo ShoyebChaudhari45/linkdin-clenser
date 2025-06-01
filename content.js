@@ -6,7 +6,8 @@ const keywords = [
   "humbled and honored",
   "new chapter",
   "blessed",
-  "journey begins"
+  "journey begins",
+  "NPTEL"
 ];
 
 function cleanLinkedIn() {
